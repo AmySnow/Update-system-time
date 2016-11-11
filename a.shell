@@ -1,0 +1,3 @@
+#!/bin/bash
+WES=`tail -1  newfile.txt `
+date -s "$WES"
